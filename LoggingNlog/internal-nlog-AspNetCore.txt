@@ -1,0 +1,67 @@
+2022-09-18 12:41:33.4741 Info Message Template Auto Format enabled
+2022-09-18 12:41:33.4936 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-18 12:41:33.5415 Info Adding target FileTarget(Name=mylogs)
+2022-09-18 12:41:33.5424 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-18 12:41:33.5740 Info Validating config: TargetNames=mylogs, ConfigItems=19, FilePath=/Users/narmin/Projects/CodeAcademy/LoggingNlog/LoggingNlog/bin/Debug/net6.0/NLog.config
+2022-09-18 12:41:33.5777 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2022-09-18 12:41:33.5828 Info Configuration initialized.
+2022-09-18 12:41:33.5903 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.4.1331. Product version: 5.0.4+aa1d486dedd0a8ab6d32b2792e74cc86ae39a0aa. GlobalAssemblyCache: False
+2022-09-18 12:42:22.9225 Info AppDomain Shutting down. LogFactory closing...
+2022-09-18 12:42:22.9312 Info LogFactory has been closed.
+2022-09-18 12:42:28.1581 Info Message Template Auto Format enabled
+2022-09-18 12:42:28.1775 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-18 12:42:28.2241 Info Adding target FileTarget(Name=mylogs)
+2022-09-18 12:42:28.2251 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-18 12:42:28.2945 Info Validating config: TargetNames=mylogs, ConfigItems=21, FilePath=/Users/narmin/Projects/CodeAcademy/LoggingNlog/LoggingNlog/bin/Debug/net6.0/NLog.config
+2022-09-18 12:42:28.2981 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: lifetimeConsole
+2022-09-18 12:42:28.3032 Info Configuration initialized.
+2022-09-18 12:42:28.3113 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.4.1331. Product version: 5.0.4+aa1d486dedd0a8ab6d32b2792e74cc86ae39a0aa. GlobalAssemblyCache: False
+2022-09-18 12:43:31.5972 Info AppDomain Shutting down. LogFactory closing...
+2022-09-18 12:43:31.6049 Info LogFactory has been closed.
+2022-09-18 12:43:36.6701 Info Message Template Auto Format enabled
+2022-09-18 12:43:36.6893 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-18 12:43:36.7357 Info Adding target FileTarget(Name=allfile)
+2022-09-18 12:43:36.7365 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-18 12:43:36.7649 Info Validating config: TargetNames=lifetimeConsole, allfile, ConfigItems=21, FilePath=/Users/narmin/Projects/CodeAcademy/LoggingNlog/LoggingNlog/bin/Debug/net6.0/NLog.config
+2022-09-18 12:43:36.7730 Info Configuration initialized.
+2022-09-18 12:43:36.7809 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.4.1331. Product version: 5.0.4+aa1d486dedd0a8ab6d32b2792e74cc86ae39a0aa. GlobalAssemblyCache: False
+2022-09-18 12:45:02.8307 Info AppDomain Shutting down. LogFactory closing...
+2022-09-18 12:45:02.8376 Info LogFactory has been closed.
+2022-09-18 12:45:08.0389 Info Message Template Auto Format enabled
+2022-09-18 12:45:08.0583 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-18 12:45:08.1051 Info Adding target FileTarget(Name=allfile)
+2022-09-18 12:45:08.1059 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-18 12:45:08.1363 Info Validating config: TargetNames=allfile, lifetimeConsole, ConfigItems=20, FilePath=/Users/narmin/Projects/CodeAcademy/LoggingNlog/LoggingNlog/bin/Debug/net6.0/NLog.config
+2022-09-18 12:45:08.1444 Info Configuration initialized.
+2022-09-18 12:45:08.1521 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.4.1331. Product version: 5.0.4+aa1d486dedd0a8ab6d32b2792e74cc86ae39a0aa. GlobalAssemblyCache: False
+2022-09-18 12:46:04.2057 Info AppDomain Shutting down. LogFactory closing...
+2022-09-18 12:46:04.2130 Info LogFactory has been closed.
+2022-09-18 12:46:09.4630 Info Message Template Auto Format enabled
+2022-09-18 12:46:09.4819 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-18 12:46:09.5287 Info Adding target FileTarget(Name=allfile)
+2022-09-18 12:46:09.5295 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-18 12:46:09.5600 Info Validating config: TargetNames=allfile, lifetimeConsole, ConfigItems=20, FilePath=/Users/narmin/Projects/CodeAcademy/LoggingNlog/LoggingNlog/bin/Debug/net6.0/NLog.config
+2022-09-18 12:46:09.5854 Info Configuration initialized.
+2022-09-18 12:46:09.5934 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.4.1331. Product version: 5.0.4+aa1d486dedd0a8ab6d32b2792e74cc86ae39a0aa. GlobalAssemblyCache: False
+2022-09-18 12:46:20.0903 Info AppDomain Shutting down. LogFactory closing...
+2022-09-18 12:46:20.0976 Info LogFactory has been closed.
+2022-09-18 12:46:25.0727 Info Message Template Auto Format enabled
+2022-09-18 12:46:25.0923 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-18 12:46:25.1391 Info Adding target FileTarget(Name=allfile)
+2022-09-18 12:46:25.1400 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-18 12:46:25.1474 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'ownFile-web' not found for logging rule: Microsoft.Hosting.Lifetime.
+2022-09-18 12:46:25.1707 Info Validating config: TargetNames=allfile, lifetimeConsole, ConfigItems=20, FilePath=/Users/narmin/Projects/CodeAcademy/LoggingNlog/LoggingNlog/bin/Debug/net6.0/NLog.config
+2022-09-18 12:46:25.1791 Info Configuration initialized.
+2022-09-18 12:46:25.1865 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.4.1331. Product version: 5.0.4+aa1d486dedd0a8ab6d32b2792e74cc86ae39a0aa. GlobalAssemblyCache: False
+2022-09-18 12:48:50.4931 Info AppDomain Shutting down. LogFactory closing...
+2022-09-18 12:48:50.5051 Info LogFactory has been closed.
+2022-09-18 12:48:56.3178 Info Message Template Auto Format enabled
+2022-09-18 12:48:56.3372 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-18 12:48:56.3839 Info Adding target FileTarget(Name=allfile)
+2022-09-18 12:48:56.3847 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-18 12:48:56.3919 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'ownFile-web' not found for logging rule: Microsoft.Hosting.Lifetime.
+2022-09-18 12:48:56.4157 Info Validating config: TargetNames=allfile, lifetimeConsole, ConfigItems=22, FilePath=/Users/narmin/Projects/CodeAcademy/LoggingNlog/LoggingNlog/bin/Debug/net6.0/NLog.config
+2022-09-18 12:48:56.4239 Info Configuration initialized.
+2022-09-18 12:48:56.4320 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.4.1331. Product version: 5.0.4+aa1d486dedd0a8ab6d32b2792e74cc86ae39a0aa. GlobalAssemblyCache: False
+2022-09-18 12:49:56.7230 Info AppDomain Shutting down. LogFactory closing...
+2022-09-18 12:49:56.7332 Info LogFactory has been closed.
